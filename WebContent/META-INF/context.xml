@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<ResourceLink name="jdbc/p2cDBlocalxxx"
+	                global="jdbc/p2cDB"
+	                auth="Container"
+	                type="javax.sql.DataSource" />
+</Context>
